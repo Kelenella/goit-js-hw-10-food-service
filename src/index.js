@@ -46,3 +46,4 @@ if (changeLocalTheme === Theme.DARK) {
   body.classList.add(Theme.DARK);
   sliderSwitch.checked = true;
 }
+ console.log(changeLocalTheme);
